@@ -1,0 +1,8 @@
+{
+  "resume-generator": ["Frontend Development", "UI/UX Design", "API Integration", "OAuth Implementation"],
+  "ml-toolkit": ["Data Science", "Neural Networks", "Model Training", "Statistical Analysis", "Data Visualization"],
+  "api-server": ["Backend Development", "Database Design", "Authentication & Authorization", "Microservices Architecture", "API Documentation"],
+  "devops-infra": ["DevOps", "CI/CD Pipelines", "Cloud Infrastructure", "Container Orchestration", "Infrastructure as Code", "Monitoring & Logging"],
+  "ui-components": ["Component Architecture", "Accessibility (WCAG)", "Design Systems", "Documentation"],
+  "blockchain-wallet": ["Smart Contracts", "Web3 Development", "Cryptography", "DeFi", "Decentralized Storage"]
+}

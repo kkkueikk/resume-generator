@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0a0a0a;
+}
+
+/* Pixel border effect */
+.pixel-border {
+  box-shadow:
+    0 0 0 2px #000,
+    0 0 0 4px currentColor;
+}
+
+/* Retro button effect */
+.retro-button {
+  position: relative;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
+  box-shadow:
+    inset -4px -4px 0px 0px rgba(0, 0, 0, 0.5),
+    inset 4px 4px 0px 0px rgba(255, 255, 255, 0.2),
+    0px 8px 0px 0px rgba(0, 0, 0, 0.3);
+}
+
+.retro-button:active {
+  box-shadow:
+    inset 4px 4px 0px 0px rgba(0, 0, 0, 0.5),
+    inset -4px -4px 0px 0px rgba(255, 255, 255, 0.2);
+  transform: translateY(4px);
+}
+
+/* 8-bit dialog box */
+.dialog-box {
+  box-shadow:
+    0 0 0 4px #000,
+    0 0 0 8px currentColor,
+    0 0 30px rgba(0, 255, 255, 0.5);
+}

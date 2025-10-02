@@ -1,0 +1,70 @@
+{
+  "repos": [
+    {
+      "id": 1,
+      "name": "resume-generator",
+      "description": "A dynamic resume generator with GitHub integration",
+      "isPrivate": false,
+      "topics": ["resume", "react", "tailwindcss", "portfolio"],
+      "languages": ["JavaScript", "CSS", "HTML"],
+      "readmeContent": "# Resume Generator\n\nA modern resume generator that integrates with GitHub to showcase your projects...",
+      "generatedTags": ["Frontend Development", "UI/UX Design", "API Integration"],
+      "url": "https://github.com/user/resume-generator"
+    },
+    {
+      "id": 2,
+      "name": "machine-learning-toolkit",
+      "description": "ML toolkit for data analysis and model training",
+      "isPrivate": false,
+      "topics": ["machine-learning", "python", "data-science", "tensorflow"],
+      "languages": ["Python", "Jupyter Notebook"],
+      "readmeContent": "# ML Toolkit\n\nComprehensive machine learning toolkit with pre-built models...",
+      "generatedTags": ["Data Science", "Neural Networks", "Model Training", "Statistical Analysis"],
+      "url": "https://github.com/user/ml-toolkit"
+    },
+    {
+      "id": 3,
+      "name": "rest-api-server",
+      "description": "RESTful API server built with Node.js and Express",
+      "isPrivate": true,
+      "topics": ["nodejs", "express", "api", "backend"],
+      "languages": ["JavaScript", "TypeScript"],
+      "readmeContent": "# REST API Server\n\nScalable REST API with authentication, rate limiting, and comprehensive logging...",
+      "generatedTags": ["Backend Development", "Database Design", "Authentication", "Microservices"],
+      "url": "https://github.com/user/rest-api-server"
+    },
+    {
+      "id": 4,
+      "name": "docker-kubernetes-infra",
+      "description": "Infrastructure as Code for Docker and Kubernetes deployments",
+      "isPrivate": false,
+      "topics": ["docker", "kubernetes", "devops", "infrastructure"],
+      "languages": ["Shell", "YAML", "Dockerfile"],
+      "readmeContent": "# Docker & Kubernetes Infrastructure\n\nAutomated deployment pipelines using Docker and K8s...",
+      "generatedTags": ["DevOps", "CI/CD", "Cloud Infrastructure", "Container Orchestration"],
+      "url": "https://github.com/user/docker-k8s"
+    },
+    {
+      "id": 5,
+      "name": "react-component-library",
+      "description": "Reusable React component library with Storybook",
+      "isPrivate": false,
+      "topics": ["react", "components", "storybook", "ui"],
+      "languages": ["TypeScript", "CSS", "JavaScript"],
+      "readmeContent": "# React Component Library\n\nA collection of accessible, customizable React components...",
+      "generatedTags": ["Component Architecture", "Accessibility", "Design Systems"],
+      "url": "https://github.com/user/react-components"
+    },
+    {
+      "id": 6,
+      "name": "blockchain-wallet",
+      "description": "Cryptocurrency wallet with multi-chain support",
+      "isPrivate": true,
+      "topics": ["blockchain", "cryptocurrency", "web3", "ethereum"],
+      "languages": ["Solidity", "JavaScript", "TypeScript"],
+      "readmeContent": "# Blockchain Wallet\n\nSecure multi-chain cryptocurrency wallet with smart contract integration...",
+      "generatedTags": ["Smart Contracts", "Web3", "Cryptography", "DeFi"],
+      "url": "https://github.com/user/blockchain-wallet"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "resume-generator": {
+    "JavaScript": 125432,
+    "CSS": 23456,
+    "HTML": 12345
+  },
+  "ml-toolkit": {
+    "Python": 456789,
+    "Jupyter Notebook": 89012
+  },
+  "api-server": {
+    "TypeScript": 234567,
+    "JavaScript": 45678,
+    "Shell": 1234
+  },
+  "devops-infra": {
+    "Shell": 67890,
+    "Dockerfile": 23456,
+    "YAML": 34567,
+    "HCL": 12345
+  },
+  "ui-components": {
+    "TypeScript": 345678,
+    "CSS": 45678,
+    "JavaScript": 23456
+  },
+  "blockchain-wallet": {
+    "Solidity": 123456,
+    "TypeScript": 89012,
+    "JavaScript": 45678
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "personalInfo": {
+    "fullName": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "https://linkedin.com/in/janedoe",
+    "github": "janedoe",
+    "website": "https://janedoe.dev",
+    "profileImage": "",
+    "showContactIcons": true
+  },
+  "education": [
+    {
+      "id": "edu1",
+      "institution": "Stanford University",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
+      "gpa": "3.8/4.0",
+      "achievements": [
+        "Dean's List (2019-2022)",
+        "CS Departmental Honors",
+        "President of Women in Tech Club"
+      ]
+    },
+    {
+      "id": "edu2",
+      "institution": "Stanford University",
+      "degree": "Master of Science",
+      "field": "Artificial Intelligence",
+      "startDate": "2022-09",
+      "endDate": "2024-06",
+      "gpa": "3.9/4.0",
+      "achievements": [
+        "Research Assistant - ML Lab",
+        "Published 2 papers in NeurIPS"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp1",
+      "type": "work",
+      "title": "Senior Software Engineer",
+      "organization": "Tech Corp",
+      "location": "San Francisco, CA",
+      "startDate": "2023-06",
+      "endDate": "Present",
+      "description": "Led development of cloud-native microservices architecture serving 10M+ users. Implemented CI/CD pipelines and reduced deployment time by 60%.",
+      "technologies": ["Node.js", "TypeScript", "AWS", "Docker", "Kubernetes"],
+      "repoId": null,
+      "repoData": null
+    },
+    {
+      "id": "exp2",
+      "type": "work",
+      "title": "Software Engineer Intern",
+      "organization": "Google",
+      "location": "Mountain View, CA",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "description": "Developed features for Google Cloud Platform. Optimized database queries resulting in 40% performance improvement.",
+      "technologies": ["Python", "Go", "GCP", "PostgreSQL"],
+      "repoId": null,
+      "repoData": null
+    },
+    {
+      "id": "exp3",
+      "type": "project",
+      "title": "Machine Learning Toolkit",
+      "organization": "Personal Project",
+      "location": "",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "description": "Open-source ML toolkit with 1.5k GitHub stars. Comprehensive library for data analysis and model training.",
+      "technologies": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
+      "repoId": 654321987,
+      "repoData": null
+    },
+    {
+      "id": "exp4",
+      "type": "volunteer",
+      "title": "Coding Instructor",
+      "organization": "Code for Good",
+      "location": "San Francisco, CA",
+      "startDate": "2021-09",
+      "endDate": "2023-06",
+      "description": "Taught programming fundamentals to underserved youth. Mentored 50+ students in web development and Python.",
+      "technologies": ["Python", "HTML", "CSS", "JavaScript"],
+      "repoId": null,
+      "repoData": null
+    },
+    {
+      "id": "exp5",
+      "type": "honor",
+      "title": "Best Paper Award",
+      "organization": "NeurIPS 2023",
+      "location": "",
+      "startDate": "2023-12",
+      "endDate": "2023-12",
+      "description": "Received Best Paper Award for research on efficient neural network architectures.",
+      "technologies": [],
+      "repoId": null,
+      "repoData": null
+    },
+    {
+      "id": "exp6",
+      "type": "project",
+      "title": "DevOps Infrastructure",
+      "organization": "Open Source",
+      "location": "",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "description": "Infrastructure as Code for Docker and Kubernetes. Automated deployment pipelines.",
+      "technologies": ["Docker", "Kubernetes", "Terraform", "GitHub Actions"],
+      "repoId": 998877665,
+      "repoData": null
+    }
+  ],
+  "selectedRepoIds": [654321987, 998877665]
+}

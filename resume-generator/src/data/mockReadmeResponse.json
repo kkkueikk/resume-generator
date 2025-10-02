@@ -1,0 +1,68 @@
+{
+  "resume-generator": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 2456,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBSZXN1bWUgR2VuZXJhdG9yCgpBIG1vZGVybiBkeW5hbWljIHJlc3VtZSBnZW5lcmF0b3Igd2l0aCBHaXRIdWIgaW50ZWdyYXRpb24gYW5kIHBpeGVsLWFydCB0aGVtZS4KCiMjIEZlYXR1cmVzCgotIFJlYWN0ICsgVGFpbHdpbmQgQ1NTCi0gR2l0SHViIE9BdXRoIGludGVncmF0aW9uCi0gUmVhbC10aW1lIHJlc3VtZSBnZW5lcmF0aW9uCi0gUmVzcG9uc2l2ZSBwaXhlbC1hcnQgZGVzaWduCi0gRGFyay9MaWdodCB0aGVtZSBzd2l0Y2hpbmcKCiMjIFRlY2hub2xvZ2llcwoKLSBSZWFjdC5qcwotIFRhaWx3aW5kIENTUwotIFZpdGUKLSBHaXRIdWIgQVBJCi0gRmFzdEFQSQ==",
+    "sha": "abc123def456",
+    "url": "https://api.github.com/repos/octocat/resume-generator/contents/README.md",
+    "html_url": "https://github.com/octocat/resume-generator/blob/master/README.md"
+  },
+  "ml-toolkit": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 3567,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBNTCBUb29sa2l0CgpDb21wcmVoZW5zaXZlIG1hY2hpbmUgbGVhcm5pbmcgdG9vbGtpdCBmb3IgZGF0YSBhbmFseXNpcyBhbmQgbW9kZWwgdHJhaW5pbmcuCgojIyBGZWF0dXJlcwoKLSBQcmUtYnVpbHQgbmV1cmFsIG5ldHdvcmsgbW9kZWxzCi0gRGF0YSBwcmVwcm9jZXNzaW5nIHBpcGVsaW5lcwotIE1vZGVsIGV2YWx1YXRpb24gbWV0cmljcwotIFZpc3VhbGl6YXRpb24gdG9vbHMKLSBIeXBlcnBhcmFtZXRlciB0dW5pbmcKCiMjIFVzZWQgVGVjaG5vbG9naWVzCgotIFB5dGhvbiAzLjkrCi0gVGVuc29yRmxvdyAyLngKLSBQeVRvcmNoCi0gU2Npa2l0LWxlYXJuCi0gUGFuZGFzCi0gTnVtUHkKLSBNYXRwbG90bGli",
+    "sha": "def456ghi789",
+    "url": "https://api.github.com/repos/octocat/ml-toolkit/contents/README.md",
+    "html_url": "https://github.com/octocat/ml-toolkit/blob/master/README.md"
+  },
+  "api-server": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 2890,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBBUEkgU2VydmVyCgpQcm9kdWN0aW9uLXJlYWR5IFJFU1RmdWwgQVBJIHNlcnZlciB3aXRoIGF1dGhlbnRpY2F0aW9uIGFuZCByYXRlIGxpbWl0aW5nLgoKIyMgRmVhdHVyZXMKCi0gSldUIGF1dGhlbnRpY2F0aW9uCi0gUmF0ZSBsaW1pdGluZwotIFJlcXVlc3QgdmFsaWRhdGlvbgotIEVycm9yIGhhbmRsaW5nCi0gRGF0YWJhc2UgT1JNCi0gQVBJIGRvY3VtZW50YXRpb24gKFN3YWdnZXIpCgojIyBUZWNoIFN0YWNrCgotIE5vZGUuanMKLSBFeHByZXNzLmpzCi0gVHlwZVNjcmlwdAotIFBvc3RncmVTUUwKLSBQcmlzbWEgT1JNCi0gUmVkaXMgZm9yIGNhY2hpbmc=",
+    "sha": "ghi789jkl012",
+    "url": "https://api.github.com/repos/octocat/api-server/contents/README.md",
+    "html_url": "https://github.com/octocat/api-server/blob/master/README.md"
+  },
+  "devops-infra": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 3123,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBEZXZPcHMgSW5mcmFzdHJ1Y3R1cmUKCkluZnJhc3RydWN0dXJlIGFzIENvZGUgZm9yIERvY2tlciBhbmQgS3ViZXJuZXRlcyBkZXBsb3ltZW50cyB3aXRoIENJL0NEIHBpcGVsaW5lcy4KCiMjIEZlYXR1cmVzCgotIERvY2tlcml6ZWQgYXBwbGljYXRpb25zCi0gS3ViZXJuZXRlcyBvcmNoZXN0cmF0aW9uCi0gVGVycmFmb3JtIHByb3Zpc2lvbmluZwotIEdpdEh1YiBBY3Rpb25zIENJL0NECi0gTW9uaXRvcmluZyBhbmQgbG9nZ2luZwoKIyMgVG9vbHMKCi0gRG9ja2VyCi0gS3ViZXJuZXRlcwotIFRlcnJhZm9ybQotIEhlbG0KLSBQcm9tZXRoZXVzCi0gR3JhZmFuYQ==",
+    "sha": "jkl012mno345",
+    "url": "https://api.github.com/repos/octocat/devops-infra/contents/README.md",
+    "html_url": "https://github.com/octocat/devops-infra/blob/master/README.md"
+  },
+  "ui-components": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 2734,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBVSSBDb21wb25lbnRzCgpBY2Nlc3NpYmxlIFJlYWN0IGNvbXBvbmVudCBsaWJyYXJ5IHdpdGggU3Rvcnlib29rIGRvY3VtZW50YXRpb24uCgojIyBGZWF0dXJlcwoKLSBGdWxseSBhY2Nlc3NpYmxlIChXQ0FHIDIuMSkKLSBUeXBlU2NyaXB0IHN1cHBvcnQKLSBTdG9yeWJvb2sgZG9jdW1lbnRhdGlvbgotIFRoZW1lIGN1c3RvbWl6YXRpb24KLSBUcmVlLXNoYWthYmxlCgojIyBDb21wb25lbnRzCgotIEJ1dHRvbnMKLSBJbnB1dHMKLSBNb2RhbHMKLSBEcm9wZG93bnMKLSBUYWJsZXMKLSBGb3JtcyoKCiMjIFRlY2hub2xvZ2llcwoKLSBSZWFjdAotIFR5cGVTY3JpcHQKLSBTdG9yeWJvb2sKLSBFbW90aW9uIChDU1MtaW4tSlMp",
+    "sha": "mno345pqr678",
+    "url": "https://api.github.com/repos/octocat/ui-components/contents/README.md",
+    "html_url": "https://github.com/octocat/ui-components/blob/master/README.md"
+  },
+  "blockchain-wallet": {
+    "type": "file",
+    "encoding": "base64",
+    "size": 3201,
+    "name": "README.md",
+    "path": "README.md",
+    "content": "IyBCbG9ja2NoYWluIFdhbGxldAoKTXVsdGktY2hhaW4gY3J5cHRvY3VycmVuY3kgd2FsbGV0IHdpdGggc21hcnQgY29udHJhY3QgaW50ZWdyYXRpb24uCgojIyBGZWF0dXJlcwoKLSBNdWx0aS1jaGFpbiBzdXBwb3J0IChFdGhlcmV1bSwgQlNDLCBQb2x5Z29uKQotIFNtYXJ0IGNvbnRyYWN0IGludGVyYWN0aW9uCi0gTkZUIHN1cHBvcnQKLSBEZUZpIGludGVncmF0aW9uCi0gU2VjdXJlIGtleSBtYW5hZ2VtZW50CgojIyBUZWNobm9sb2dpZXMKCi0gU29saWRpdHkgZm9yIHNtYXJ0IGNvbnRyYWN0cwotIEV0aGVycy5qcwotIFdlYjMuanMKLSBIYXJkaGF0IC8gVHJ1ZmZsZQotIFJlYWN0IGZvciBmcm9udGVuZAotIElQRlMgZm9yIGRlY2VudHJhbGl6ZWQgc3RvcmFnZQ==",
+    "sha": "pqr678stu901",
+    "url": "https://api.github.com/repos/octocat/blockchain-wallet/contents/README.md",
+    "html_url": "https://github.com/octocat/blockchain-wallet/blob/master/README.md"
+  }
+}
